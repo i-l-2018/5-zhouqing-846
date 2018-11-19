@@ -5,11 +5,14 @@ gitHub是一个面向开源及私有软件项目的托管平台，因为只支�
                 
                 git工作过程
  本地工作区到远程仓库
-    查找变动
-    stage changed
-    填写对修改的概括，点击commit
-    点击push
+   1. 查找变动
+   2. stage changed
+   3.填写对修改的概括，点击commit
+   4. 点击push
  1，2完成从本地工作区到暂有区，3从暂有区到本地仓库，4从本地仓库到远程仓库。
+ 
+ 
+ 
  远程仓库到本地工作区
    1. 点击Remote中fetch from
    2. 点击Merge
